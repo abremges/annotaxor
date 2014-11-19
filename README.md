@@ -2,4 +2,5 @@ annotaxor [![Build Status](https://magnum.travis-ci.com/abremges/annotaxor.svg?t
 =========
 
 Kraken-style taxonomic annotation using a protein database.
+
 Beta as of now, and building the custom DB is painfully slow.
